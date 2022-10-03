@@ -1,0 +1,151 @@
+Train Epoch: 0 | Batch: 0/98 | Loss: 2.302 | Train Acc: 12.695%
+Train Epoch: 0 | Batch: 10/98 | Loss: 2.302 | Train Acc: 10.511%
+Train Epoch: 0 | Batch: 20/98 | Loss: 2.296 | Train Acc: 12.398%
+Train Epoch: 0 | Batch: 30/98 | Loss: 2.270 | Train Acc: 14.214%
+Train Epoch: 0 | Batch: 40/98 | Loss: 2.220 | Train Acc: 16.201%
+Train Epoch: 0 | Batch: 50/98 | Loss: 2.177 | Train Acc: 17.976%
+Train Epoch: 0 | Batch: 60/98 | Loss: 2.136 | Train Acc: 19.637%
+Train Epoch: 0 | Batch: 70/98 | Loss: 2.102 | Train Acc: 21.036%
+Train Epoch: 0 | Batch: 80/98 | Loss: 2.070 | Train Acc: 22.427%
+Train Epoch: 0 | Batch: 90/98 | Loss: 2.036 | Train Acc: 23.766%
+
+
+Test Epoch: 0 | Loss: 1.641 | Test Acc: 39.210%
+
+
+Train Epoch: 1 | Batch: 0/98 | Loss: 1.707 | Train Acc: 37.500%
+Train Epoch: 1 | Batch: 10/98 | Loss: 1.682 | Train Acc: 38.228%
+Train Epoch: 1 | Batch: 20/98 | Loss: 1.687 | Train Acc: 37.500%
+Train Epoch: 1 | Batch: 30/98 | Loss: 1.679 | Train Acc: 37.771%
+Train Epoch: 1 | Batch: 40/98 | Loss: 1.669 | Train Acc: 38.315%
+Train Epoch: 1 | Batch: 50/98 | Loss: 1.657 | Train Acc: 38.971%
+Train Epoch: 1 | Batch: 60/98 | Loss: 1.651 | Train Acc: 39.325%
+Train Epoch: 1 | Batch: 70/98 | Loss: 1.644 | Train Acc: 39.684%
+Train Epoch: 1 | Batch: 80/98 | Loss: 1.639 | Train Acc: 39.846%
+Train Epoch: 1 | Batch: 90/98 | Loss: 1.636 | Train Acc: 39.940%
+
+
+Test Epoch: 1 | Loss: 1.449 | Test Acc: 46.920%
+
+
+Train Epoch: 2 | Batch: 0/98 | Loss: 1.529 | Train Acc: 45.703%
+Train Epoch: 2 | Batch: 10/98 | Loss: 1.560 | Train Acc: 43.999%
+Train Epoch: 2 | Batch: 20/98 | Loss: 1.557 | Train Acc: 43.741%
+Train Epoch: 2 | Batch: 30/98 | Loss: 1.532 | Train Acc: 44.808%
+Train Epoch: 2 | Batch: 40/98 | Loss: 1.519 | Train Acc: 45.184%
+Train Epoch: 2 | Batch: 50/98 | Loss: 1.510 | Train Acc: 45.577%
+Train Epoch: 2 | Batch: 60/98 | Loss: 1.500 | Train Acc: 46.049%
+Train Epoch: 2 | Batch: 70/98 | Loss: 1.491 | Train Acc: 46.248%
+Train Epoch: 2 | Batch: 80/98 | Loss: 1.484 | Train Acc: 46.499%
+Train Epoch: 2 | Batch: 90/98 | Loss: 1.474 | Train Acc: 46.811%
+
+
+Test Epoch: 2 | Loss: 1.317 | Test Acc: 53.310%
+
+
+Train Epoch: 3 | Batch: 0/98 | Loss: 1.413 | Train Acc: 49.414%
+Train Epoch: 3 | Batch: 10/98 | Loss: 1.391 | Train Acc: 49.947%
+Train Epoch: 3 | Batch: 20/98 | Loss: 1.382 | Train Acc: 50.605%
+Train Epoch: 3 | Batch: 30/98 | Loss: 1.396 | Train Acc: 50.195%
+Train Epoch: 3 | Batch: 40/98 | Loss: 1.393 | Train Acc: 50.276%
+Train Epoch: 3 | Batch: 50/98 | Loss: 1.389 | Train Acc: 50.417%
+Train Epoch: 3 | Batch: 60/98 | Loss: 1.380 | Train Acc: 50.740%
+Train Epoch: 3 | Batch: 70/98 | Loss: 1.379 | Train Acc: 50.770%
+Train Epoch: 3 | Batch: 80/98 | Loss: 1.377 | Train Acc: 50.704%
+Train Epoch: 3 | Batch: 90/98 | Loss: 1.374 | Train Acc: 50.747%
+
+
+Test Epoch: 3 | Loss: 1.270 | Test Acc: 54.940%
+
+
+Train Epoch: 4 | Batch: 0/98 | Loss: 1.331 | Train Acc: 54.492%
+Train Epoch: 4 | Batch: 10/98 | Loss: 1.324 | Train Acc: 53.391%
+Train Epoch: 4 | Batch: 20/98 | Loss: 1.299 | Train Acc: 53.525%
+Train Epoch: 4 | Batch: 30/98 | Loss: 1.300 | Train Acc: 53.648%
+Train Epoch: 4 | Batch: 40/98 | Loss: 1.309 | Train Acc: 53.235%
+Train Epoch: 4 | Batch: 50/98 | Loss: 1.306 | Train Acc: 53.152%
+Train Epoch: 4 | Batch: 60/98 | Loss: 1.306 | Train Acc: 53.291%
+Train Epoch: 4 | Batch: 70/98 | Loss: 1.309 | Train Acc: 53.128%
+Train Epoch: 4 | Batch: 80/98 | Loss: 1.307 | Train Acc: 53.205%
+Train Epoch: 4 | Batch: 90/98 | Loss: 1.307 | Train Acc: 53.262%
+
+
+Test Epoch: 4 | Loss: 1.246 | Test Acc: 56.050%
+
+
+Train Epoch: 5 | Batch: 0/98 | Loss: 1.266 | Train Acc: 56.250%
+Train Epoch: 5 | Batch: 10/98 | Loss: 1.264 | Train Acc: 55.256%
+Train Epoch: 5 | Batch: 20/98 | Loss: 1.262 | Train Acc: 55.069%
+Train Epoch: 5 | Batch: 30/98 | Loss: 1.248 | Train Acc: 55.796%
+Train Epoch: 5 | Batch: 40/98 | Loss: 1.242 | Train Acc: 56.079%
+Train Epoch: 5 | Batch: 50/98 | Loss: 1.235 | Train Acc: 56.284%
+Train Epoch: 5 | Batch: 60/98 | Loss: 1.238 | Train Acc: 56.035%
+Train Epoch: 5 | Batch: 70/98 | Loss: 1.242 | Train Acc: 55.843%
+Train Epoch: 5 | Batch: 80/98 | Loss: 1.239 | Train Acc: 55.973%
+Train Epoch: 5 | Batch: 90/98 | Loss: 1.239 | Train Acc: 55.911%
+
+
+Test Epoch: 5 | Loss: 1.144 | Test Acc: 59.730%
+
+
+Train Epoch: 6 | Batch: 0/98 | Loss: 1.311 | Train Acc: 53.125%
+Train Epoch: 6 | Batch: 10/98 | Loss: 1.191 | Train Acc: 57.546%
+Train Epoch: 6 | Batch: 20/98 | Loss: 1.192 | Train Acc: 57.617%
+Train Epoch: 6 | Batch: 30/98 | Loss: 1.188 | Train Acc: 57.812%
+Train Epoch: 6 | Batch: 40/98 | Loss: 1.187 | Train Acc: 57.922%
+Train Epoch: 6 | Batch: 50/98 | Loss: 1.189 | Train Acc: 57.809%
+Train Epoch: 6 | Batch: 60/98 | Loss: 1.189 | Train Acc: 57.857%
+Train Epoch: 6 | Batch: 70/98 | Loss: 1.190 | Train Acc: 57.857%
+Train Epoch: 6 | Batch: 80/98 | Loss: 1.190 | Train Acc: 57.779%
+Train Epoch: 6 | Batch: 90/98 | Loss: 1.190 | Train Acc: 57.722%
+
+
+Test Epoch: 6 | Loss: 1.105 | Test Acc: 60.690%
+
+
+Train Epoch: 7 | Batch: 0/98 | Loss: 1.130 | Train Acc: 61.328%
+Train Epoch: 7 | Batch: 10/98 | Loss: 1.163 | Train Acc: 58.647%
+Train Epoch: 7 | Batch: 20/98 | Loss: 1.151 | Train Acc: 58.919%
+Train Epoch: 7 | Batch: 30/98 | Loss: 1.157 | Train Acc: 58.770%
+Train Epoch: 7 | Batch: 40/98 | Loss: 1.145 | Train Acc: 59.275%
+Train Epoch: 7 | Batch: 50/98 | Loss: 1.143 | Train Acc: 59.237%
+Train Epoch: 7 | Batch: 60/98 | Loss: 1.144 | Train Acc: 59.189%
+Train Epoch: 7 | Batch: 70/98 | Loss: 1.144 | Train Acc: 59.218%
+Train Epoch: 7 | Batch: 80/98 | Loss: 1.145 | Train Acc: 59.204%
+Train Epoch: 7 | Batch: 90/98 | Loss: 1.143 | Train Acc: 59.283%
+
+
+Test Epoch: 7 | Loss: 1.074 | Test Acc: 62.070%
+
+
+Train Epoch: 8 | Batch: 0/98 | Loss: 1.082 | Train Acc: 63.867%
+Train Epoch: 8 | Batch: 10/98 | Loss: 1.113 | Train Acc: 60.423%
+Train Epoch: 8 | Batch: 20/98 | Loss: 1.127 | Train Acc: 59.933%
+Train Epoch: 8 | Batch: 30/98 | Loss: 1.127 | Train Acc: 59.992%
+Train Epoch: 8 | Batch: 40/98 | Loss: 1.117 | Train Acc: 60.347%
+Train Epoch: 8 | Batch: 50/98 | Loss: 1.117 | Train Acc: 60.329%
+Train Epoch: 8 | Batch: 60/98 | Loss: 1.113 | Train Acc: 60.486%
+Train Epoch: 8 | Batch: 70/98 | Loss: 1.113 | Train Acc: 60.511%
+Train Epoch: 8 | Batch: 80/98 | Loss: 1.116 | Train Acc: 60.395%
+Train Epoch: 8 | Batch: 90/98 | Loss: 1.114 | Train Acc: 60.478%
+
+
+Test Epoch: 8 | Loss: 1.047 | Test Acc: 63.240%
+
+
+Train Epoch: 9 | Batch: 0/98 | Loss: 1.058 | Train Acc: 62.891%
+Train Epoch: 9 | Batch: 10/98 | Loss: 1.105 | Train Acc: 60.831%
+Train Epoch: 9 | Batch: 20/98 | Loss: 1.096 | Train Acc: 61.254%
+Train Epoch: 9 | Batch: 30/98 | Loss: 1.086 | Train Acc: 61.385%
+Train Epoch: 9 | Batch: 40/98 | Loss: 1.093 | Train Acc: 61.247%
+Train Epoch: 9 | Batch: 50/98 | Loss: 1.093 | Train Acc: 61.324%
+Train Epoch: 9 | Batch: 60/98 | Loss: 1.093 | Train Acc: 61.232%
+Train Epoch: 9 | Batch: 70/98 | Loss: 1.095 | Train Acc: 61.067%
+Train Epoch: 9 | Batch: 80/98 | Loss: 1.097 | Train Acc: 60.988%
+Train Epoch: 9 | Batch: 90/98 | Loss: 1.097 | Train Acc: 61.000%
+
+
+Test Epoch: 9 | Loss: 1.037 | Test Acc: 63.830%
+
+
+Final testing result: 63.830%
