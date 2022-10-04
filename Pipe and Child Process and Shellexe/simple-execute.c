@@ -4,9 +4,7 @@
 #include <string.h>
 #include <errno.h>
 #include <unistd.h>
-//Chan Chun Wai 1155127382
-//TSANG Ho San	1155127648
-//Chan Cheung Hei 1155125806
+
 int find_pipe1(char ** args, int argc)//return first pipe position. Return -1 if no.
 {	int pipe1=-1;
 	for(int i=0; i<argc-1; i++)
