@@ -1,5 +1,5 @@
 # MiscCollection
-Collection of some random project and code
+Collection of some small random project and code
 - Hadoop, Spark, Distributed Computing, stream processing
 - Operating System, File Structure
 - Database Design
